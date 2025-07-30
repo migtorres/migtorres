@@ -1,16 +1,42 @@
-## Hi there 👋
+# Miguel Torres Portfolio
 
-<!--
-**migtorres/migtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio website! This repository contains the source code for my portfolio showcasing my work, skills, and experience.
 
-Here are some ideas to get you started:
+## 🌐 Live Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my portfolio at: [migtorres.github.io/migtorres](https://migtorres.github.io/migtorres)
+
+## 📁 Project Structure
+
+- `index.html` - Main portfolio page (English)
+- `index_pt.html` - Portfolio page in Portuguese
+- `MIGUEL*.JPG` - Portfolio images and work samples
+- `_vti_cnf/` - Configuration files
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (if applicable)
+- Responsive design principles
+
+## 📝 Features
+
+- Bilingual support (English/Portuguese)
+- Responsive design
+- Portfolio showcase
+- Professional presentation
+
+## 🔧 Setup
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Or visit the live site at the link above
+
+## 📫 Contact
+
+Feel free to reach out if you have any questions or would like to collaborate!
+
+---
+
+*This portfolio is hosted on GitHub Pages and is regularly updated with new projects and experiences.*
